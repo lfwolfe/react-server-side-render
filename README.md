@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Just a Server side rendering example
+# Just a Server side rendering example
 
 ## Available Scripts
 
